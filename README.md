@@ -5,7 +5,7 @@ The repository contains all the 614 Himnario Adventista Hymnal lyrics in Spanish
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-Himnario Adventista is part of several other databases and lyrics that we are refining in different languages. 
+Himnario Adventista is part of several other SDA music lyrics under refinement in different languages. 
 
 # Mission
 Making SDA worship material accessible to everyone.
