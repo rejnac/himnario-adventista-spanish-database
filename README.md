@@ -1,11 +1,11 @@
 # Himnario Adventista
 
 
-The repository contains all the 332 Himnario Adventista Hymnal lyrics in Spanish language also called Castilian or Castellano
+The repository contains all the 614 Himnario Adventista Hymnal lyrics in Spanish language also called Español, Castilian or Castellano
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-Himnario Adventista is part of several other databases and lyrics that we are currently doing in different languages. 
+Himnario Adventista is part of several other databases and lyrics that we are refining in different languages. 
 
 # Mission
 Making SDA worship material accessible to everyone.
